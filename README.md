@@ -1,4 +1,4 @@
-![Header](<img src="https://github.com/Andrrii/Andrrii/blob/main/assets/Mem.gif" width="550px" height="150px">)
+<img src="https://github.com/Andrrii/Andrrii/blob/main/assets/Mem.gif" width="550px" height="150px">
 
 About me
 
