@@ -12,7 +12,7 @@
 <div size='20px'><h3> Hi! My name is Andrii Butsa. Thank You for taking the time to view my GitHub Profile :smile: </h3>
 </div>
 
-<div><h2> About Me <span><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px /></span></h2></div>
+<div><h2> About Me <span><img src = "https://res.cloudinary.com/teepublic/image/private/s--_GRfmrUl--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1512747189/production/designs/2154806_1.jpg" width = 100px /></span></h2></div>
 
 <img width="55%" align="right" alt="Github" src="https://github.com/Andrrii/Andrrii/blob/main/assets/E7LJttvX0Ag6Wvl.png" />
 
