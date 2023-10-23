@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on OpenTechNexus projects
 
-- 🌱 I’m currently learning English 
+- 🌱 I’m currently learning English, Algorithms 
 
-- 💬 Talk to me about JavaScript, React, Nextjs,
+- 💬 Talk to me about JavaScript, React, Nextjs, HTML and CSS
 
 - 📫 How to reach me **butsaandrii@gmail.com**
 
