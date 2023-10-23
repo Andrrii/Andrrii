@@ -14,11 +14,11 @@
 <img width="55%" align="right" alt="Github" src="https://github.com/Andrrii/Andrrii/blob/main/assets/E7LJttvX0Ag6Wvl.png" />
 
 
-- 🔭 I’m currently working on Shelf.io projects
+- 🔭 I’m currently working on OpenTechNexus projects
 
-- 🌱 I’m currently learning Data Science,English 
+- 🌱 I’m currently learning English 
 
-- 💬 Talk to me about Python, JavaScript 
+- 💬 Talk to me about JavaScript 
 
 - 📫 How to reach me **butsaandrii@gmail.com**
 
