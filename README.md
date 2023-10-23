@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning English 
 
-- 💬 Talk to me about JavaScript 
+- 💬 Talk to me about JavaScript , React
 
 - 📫 How to reach me **butsaandrii@gmail.com**
 
