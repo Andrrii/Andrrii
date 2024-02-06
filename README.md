@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://github.com/Andrrii/Andrrii/blob/main/assets/Mem.gif" alt="cover" />
 </div>
 
-<h1> Hello  < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello  < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 </p>
 <div size='20px'><h3> Hi! My name is Andrii Butsa. Thank You for taking the time to view my GitHub Profile :smile: </h3>
