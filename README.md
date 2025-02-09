@@ -14,7 +14,7 @@
 <img width="50%" style="z-index: 100;position:relative;" align="right" alt="Github" src="https://github.com/Andrrii/Andrrii/blob/main/assets/E7LJttvX0Ag6Wvl.png" />
 
 
-- 🔭 I’m currently working on OpenTechNexus projects
+- 🔭 I’m currently working on JustAnswer projects
 
 - 🌱 I’m currently learning English, Algorithms 
 
